@@ -1,0 +1,632 @@
+[
+  {
+    "id": 0,
+    "title": "IT STARTS WITH US",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+    "author": "Colleen Hoover",
+    "description": "In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend."
+  },
+  {
+    "id": 1,
+    "title": "IT ENDS WITH US",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+    "author": "Colleen Hoover",
+    "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse."
+  },
+  {
+    "id": 2,
+    "title": "VERITY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+    "author": "Colleen Hoover",
+    "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth."
+  },
+  {
+    "id": 3,
+    "title": "LESSONS IN CHEMISTRY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+    "author": "Bonnie Garmus",
+    "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show."
+  },
+  {
+    "id": 4,
+    "title": "WITHOUT A TRACE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781984821867.jpg",
+    "author": "Danielle Steel",
+    "description": "Charles Vincent meets someone who ignites his passion and must decide whether to walk away from his perfect-from-the-outside life."
+  },
+  {
+    "id": 5,
+    "title": "THE LIGHT WE CARRY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+    "author": "Michelle Obama",
+    "description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations."
+  },
+  {
+    "id": 6,
+    "title": "I'M GLAD MY MOM DIED",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+    "author": "Jennette McCurdy",
+    "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother."
+  },
+  {
+    "id": 7,
+    "title": "THE JANUARY 6 REPORT",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063315501.jpg",
+    "author": "the House January 6th Committee",
+    "description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a foreword by Ari Melber."
+  },
+  {
+    "id": 8,
+    "title": "THE BODY KEEPS THE SCORE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+    "author": "Bessel van der Kolk",
+    "description": "How trauma affects the body and mind, and innovative treatments for recovery."
+  },
+  {
+    "id": 9,
+    "title": "THE JANUARY 6TH REPORT",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250877529.jpg",
+    "author": "the Select Committee to Investigate the Jan. 6 Attack on the United States Capitol",
+    "description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a preface by David Remnick and epilogue by Representative Jamie Raskin."
+  },
+  {
+    "id": 10,
+    "title": "LESSONS IN CHEMISTRY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+    "author": "Bonnie Garmus",
+    "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show."
+  },
+  {
+    "id": 11,
+    "title": "THE HOUSE IN THE PINES",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593186718.jpg",
+    "author": "Ana Reyes",
+    "description": "Seven years after witnessing her best friend drop dead, Maya returns to her Berkshires hometown to piece together what happened."
+  },
+  {
+    "id": 12,
+    "title": "WITHOUT A TRACE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781984821867.jpg",
+    "author": "Danielle Steel",
+    "description": "Charles Vincent meets someone who ignites his passion and must decide whether to walk away from his perfect-from-the-outside life."
+  },
+  {
+    "id": 13,
+    "title": "THE BOYS FROM BILOXI",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+    "author": "John Grisham",
+    "description": "Two childhood friends follow in their fathers’ footsteps, which puts them on opposite sides of the law."
+  },
+  {
+    "id": 14,
+    "title": "DEMON COPPERHEAD",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+    "author": "Barbara Kingsolver",
+    "description": "A reimagining of Charles Dickens’s “David Copperfield” set in the mountains of southern Appalachia."
+  },
+  {
+    "id": 15,
+    "title": "THE LIGHT WE CARRY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+    "author": "Michelle Obama",
+    "description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations."
+  },
+  {
+    "id": 16,
+    "title": "I'M GLAD MY MOM DIED",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+    "author": "Jennette McCurdy",
+    "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother."
+  },
+  {
+    "id": 17,
+    "title": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+    "author": "Matthew Perry",
+    "description": "The actor, known for playing Chandler Bing on “Friends,” shares stories from his childhood and his struggles with sobriety."
+  },
+  {
+    "id": 18,
+    "title": "AN IMMENSE WORLD",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593133231.jpg",
+    "author": "Ed Yong",
+    "description": "The Pulitzer Prize–winning science writer explains the sensory perceptions and ways of communication used by a variety of animals."
+  },
+  {
+    "id": 19,
+    "title": "THE REVOLUTIONARY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780316441117.jpg",
+    "author": "Stacy Schiff",
+    "description": "The Pulitzer Prize-winning biographer details Samuel Adams’s contributions to the American Revolution."
+  },
+  {
+    "id": 20,
+    "title": "IT STARTS WITH US",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+    "author": "Colleen Hoover",
+    "description": "In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend."
+  },
+  {
+    "id": 21,
+    "title": "IT ENDS WITH US",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+    "author": "Colleen Hoover",
+    "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse."
+  },
+  {
+    "id": 22,
+    "title": "VERITY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+    "author": "Colleen Hoover",
+    "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth."
+  },
+  {
+    "id": 23,
+    "title": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+    "author": "Taylor Jenkins Reid",
+    "description": "A movie icon recounts stories of her loves and career to a struggling magazine writer."
+  },
+  {
+    "id": 24,
+    "title": "UGLY LOVE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781476753195.jpg",
+    "author": "Colleen Hoover",
+    "description": "A casual sexual relationship between Tate and Miles becomes more complicated than they expected."
+  },
+  {
+    "id": 25,
+    "title": "THE JANUARY 6 REPORT",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063315501.jpg",
+    "author": "the House January 6th Committee",
+    "description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a foreword by Ari Melber."
+  },
+  {
+    "id": 26,
+    "title": "THE BODY KEEPS THE SCORE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+    "author": "Bessel van der Kolk",
+    "description": "How trauma affects the body and mind, and innovative treatments for recovery."
+  },
+  {
+    "id": 27,
+    "title": "THE JANUARY 6TH REPORT",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250877529.jpg",
+    "author": "the Select Committee to Investigate the Jan. 6 Attack on the United States Capitol",
+    "description": "The final report of the Select Committee to Investigate the Jan. 6. Attack on the United States Capitol; with a preface by David Remnick and epilogue by Representative Jamie Raskin."
+  },
+  {
+    "id": 28,
+    "title": "ALL ABOUT LOVE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+    "author": "bell hooks",
+    "description": "The late feminist icon explores the causes of a polarized society and the meaning of love."
+  },
+  {
+    "id": 29,
+    "title": "BRAIDING SWEETGRASS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+    "author": "Robin Wall Kimmerer",
+    "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals."
+  },
+  {
+    "id": 30,
+    "title": "ATOMIC HABITS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+    "author": "James Clear",
+    "description": ""
+  },
+  {
+    "id": 31,
+    "title": "THE BOY, THE MOLE, THE FOX AND THE HORSE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780062976581.jpg",
+    "author": "Charlie Mackesy",
+    "description": ""
+  },
+  {
+    "id": 32,
+    "title": "THE SUBTLE ART OF NOT GIVING A F*CK",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780062457714.jpg",
+    "author": "Mark Manson",
+    "description": ""
+  },
+  {
+    "id": 33,
+    "title": "NEVER FINISHED",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781544534077.jpg",
+    "author": "David Goggins",
+    "description": ""
+  },
+  {
+    "id": 34,
+    "title": "GO-TO DINNERS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781984822789.jpg",
+    "author": "Ina Garten",
+    "description": ""
+  },
+  {
+    "id": 35,
+    "title": "WONDER",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780375899881.jpg",
+    "author": "R.J. Palacio",
+    "description": "A boy with a facial deformity starts school."
+  },
+  {
+    "id": 36,
+    "title": "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781492670025.jpg",
+    "author": "America's Test Kitchen Kids",
+    "description": "Over 100 kid-tested recipes from America's Test Kitchen."
+  },
+  {
+    "id": 37,
+    "title": "TWO DEGREES",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781338735673.jpg",
+    "author": "Alan Gratz",
+    "description": "Four kids simultaneously experience three natural catastrophes due to climate change."
+  },
+  {
+    "id": 38,
+    "title": "ODDER",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250147424.jpg",
+    "author": "Katherine Applegate.",
+    "description": "After a shark attack, Odder recuperates at the aquarium with the scientists who raised her."
+  },
+  {
+    "id": 39,
+    "title": "THE DOOR OF NO RETURN",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780316441865.jpg",
+    "author": "Kwame Alexander",
+    "description": "Kofi's life is turned upside down after his brother accidentally kills a prince in a wresting match."
+  },
+  {
+    "id": 40,
+    "title": "LITTLE BLUE TRUCK'S VALENTINE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780358272441.jpg",
+    "author": "Alice Schertle.",
+    "description": "Little Blue Truck delivers Valentine's Day cards to all his farm animal friends."
+  },
+  {
+    "id": 41,
+    "title": "THE WONDERFUL THINGS YOU WILL BE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385376716.jpg",
+    "author": "Emily Winfield Martin",
+    "description": "A celebration of future possibilities."
+  },
+  {
+    "id": 42,
+    "title": "DRAGONS LOVE TACOS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780803736801.jpg",
+    "author": "Adam Rubin.",
+    "description": "What to serve your dragon-guests."
+  },
+  {
+    "id": 43,
+    "title": "THE DAY THE CRAYONS QUIT",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780399255373.jpg",
+    "author": "Drew Daywalt.",
+    "description": "Problems arise when Duncan’s crayons revolt."
+  },
+  {
+    "id": 44,
+    "title": "THE SOUR GRAPE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063045415.jpg",
+    "author": "Jory John and Pete Oswald",
+    "description": "A grape hold grudges against everyone, then re-evaluates life when one is held against him."
+  },
+  {
+    "id": 45,
+    "title": "DIARY OF A WIMPY KID",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781419711329.jpg",
+    "author": "and   Jeff Kinney",
+    "description": "The travails and challenges of adolescence."
+  },
+  {
+    "id": 46,
+    "title": "A GOOD GIRL'S GUIDE TO MURDER",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593379851.jpg",
+    "author": "Holly Jackson",
+    "description": "Pippa Fitz-Amobi solves murderous crimes."
+  },
+  {
+    "id": 47,
+    "title": "HARRY POTTER",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780590353427.jpg",
+    "author": "J.K. Rowling",
+    "description": "A wizard hones his conjuring skills in the service of fighting evil."
+  },
+  {
+    "id": 48,
+    "title": "THE INHERITANCE GAMES",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780316370950.jpg",
+    "author": "Jennifer Lynn Barnes",
+    "description": "Avery Grambs tries to figure out why an inheritance from a stranger was bestowed upon her."
+  },
+  {
+    "id": 49,
+    "title": "THRONE OF GLASS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781619630666.jpg",
+    "author": "Sarah J. Maas",
+    "description": "Celaena must battle evil forces threatening her realm."
+  },
+  {
+    "id": 50,
+    "title": "THE STOLEN HEIR",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780316519045.jpg",
+    "author": "Holly Black",
+    "description": "Runaway Queen Suren and Prince Oak embark on a deadly and dangerous mission to the north."
+  },
+  {
+    "id": 51,
+    "title": "NICK AND CHARLIE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781338885101.jpg",
+    "author": "Alice Oseman",
+    "description": "Nick and Charlie question whether their love is strong enough to survive being apart when Nick leaves for university."
+  },
+  {
+    "id": 52,
+    "title": "SONG OF SILVER, FLAME LIKE NIGHT",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593705797.jpg",
+    "author": "Amélie Wen Zhao",
+    "description": "Lan and Zen struggle to survive in their conquered homeland, but they may also have the power to liberate it."
+  },
+  {
+    "id": 53,
+    "title": "FIVE SURVIVE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+    "author": "Holly Jackson",
+    "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper."
+  },
+  {
+    "id": 54,
+    "title": "THE FIRST TO DIE AT THE END",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063240803.jpg",
+    "author": "Adam Silvera",
+    "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premiere of Death-Cast in Times Square."
+  },
+  {
+    "id": 55,
+    "title": "FAIRY TALE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781668002179.jpg",
+    "author": "Stephen King",
+    "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war. Read by Seth Numrich and the author. 24 hours, 4 minutes unabridged."
+  },
+  {
+    "id": 56,
+    "title": "LESSONS IN CHEMISTRY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+    "author": "Bonnie Garmus",
+    "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show. Read by Miranda Raison, Pandora Sykes and the author. 11 hours, 55 minutes unabridged."
+  },
+  {
+    "id": 57,
+    "title": "IT STARTS WITH US",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+    "author": "Colleen Hoover",
+    "description": "In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend. Read by Colin Donnell and Olivia Song. 8 hours, 40 minutes unabridged."
+  },
+  {
+    "id": 58,
+    "title": "THE BOYS FROM BILOXI",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385548922.jpg",
+    "author": "John Grisham",
+    "description": "Two childhood friends follow in their fathers’ footsteps, which puts them on opposite sides of the law. Read by Michael Beck. 17 hours, 23 minutes unabridged."
+  },
+  {
+    "id": 59,
+    "title": "DEMON COPPERHEAD",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063251922.jpg",
+    "author": "Barbara Kingsolver",
+    "description": "A reimagining of Charles Dickens’s “David Copperfield” set in the mountains of southern Appalachia. Read by Charlie Thurston. 21 hours, 3 minutes unabridged."
+  },
+  {
+    "id": 60,
+    "title": "THE LIGHT WE CARRY",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593237465.jpg",
+    "author": "Michelle Obama",
+    "description": "The former first lady shares personal stories and the tools she uses to deal with difficult situations. Read by the author. 10 hours unabridged."
+  },
+  {
+    "id": 61,
+    "title": "I'M GLAD MY MOM DIED",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+    "author": "Jennette McCurdy",
+    "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother. Read by the author. 6 hours, 25 minutes unabridged."
+  },
+  {
+    "id": 62,
+    "title": "FRIENDS, LOVERS, AND THE BIG TERRIBLE THING",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250866448.jpg",
+    "author": "Matthew Perry",
+    "description": "The actor, known for playing Chandler Bing on “Friends,” shares stories from his childhood and his struggles with sobriety. Read by the author. 8 hours, 49 minutes unabridged."
+  },
+  {
+    "id": 63,
+    "title": "THE BODY KEEPS THE SCORE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+    "author": "Bessel van der Kolk",
+    "description": "How trauma affects the body and mind, and innovative treatments for recovery. Read by Sean Pratt. 16 hours, 17 minutes unabridged. "
+  },
+  {
+    "id": 64,
+    "title": "GREENLIGHTS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593139134.jpg",
+    "author": "Matthew McConaughey",
+    "description": "The Academy Award-winning actor shares snippets from the diaries he kept over 35 years. Read by the author. 6 hours, 42 minutes unabridged."
+  },
+  {
+    "id": 65,
+    "title": "ATOMIC HABITS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+    "author": "James Clear",
+    "description": ""
+  },
+  {
+    "id": 66,
+    "title": "CHIP WAR",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781982172008.jpg",
+    "author": "Chris Miller",
+    "description": ""
+  },
+  {
+    "id": 67,
+    "title": "DARE TO LEAD",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780399592522.jpg",
+    "author": "Brené Brown",
+    "description": ""
+  },
+  {
+    "id": 68,
+    "title": "EXTREME OWNERSHIP",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781466874961.jpg",
+    "author": "Jocko Willink and Leif Babin",
+    "description": ""
+  },
+  {
+    "id": 69,
+    "title": "FINANCIAL FEMINIST",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780063260269.jpg",
+    "author": "Tori Dunlap",
+    "description": ""
+  },
+  {
+    "id": 70,
+    "title": "COLLABORATIONS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781338846621.jpg",
+    "author": "Dav Pilkey",
+    "description": "The fourth book in the Cat Kid Comic Club series. After doing their chores, baby frogs work together to create more mini-comics."
+  },
+  {
+    "id": 71,
+    "title": "MOON RISING",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781338730890.jpg",
+    "author": "Tui T. Sutherland.",
+    "description": "The sixth book in the Wings of Fire graphic novel series; adapted by Barry Deutsch and Rachel Swirsky."
+  },
+  {
+    "id": 72,
+    "title": "CHAINSAW MAN, VOL. 1",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781974709939.jpg",
+    "author": "Tatsuki Fujimoto",
+    "description": "A poor young man who was betrayed by someone he once trusted discovers he has the power of a devil inside him."
+  },
+  {
+    "id": 73,
+    "title": "ON PURPOSE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781338801941.jpg",
+    "author": "Dav Pilkey",
+    "description": "The third book in the Cat Kid Comic Club series. Fame, fortune and creativity pull the members of the comic club in different directions."
+  },
+  {
+    "id": 74,
+    "title": "MOTHERING HEIGHTS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781338680454.jpg",
+    "author": "Dav Pilkey",
+    "description": "The 10th book in the Dog Man series. Can the power of love overcome the darkness and despair created by new villains?"
+  },
+  {
+    "id": 75,
+    "title": "THE JUDGE'S LIST",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780385546027.jpg",
+    "author": "John Grisham",
+    "description": "The second book in the Whistler series. Investigator Lacy Stoltz goes after a serial killer and closes in on a sitting judge."
+  },
+  {
+    "id": 76,
+    "title": "STEAL",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781538703533.jpg",
+    "author": "James Patterson and Howard Roughan",
+    "description": "An N.Y.P.D. detective, a hedge fund chief executive and a psychology professor are wrapped up in the disappearance of a college student."
+  },
+  {
+    "id": 77,
+    "title": "INVISIBLE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781984821584.jpg",
+    "author": "Danielle Steel",
+    "description": "The daughter of a couple in a loveless marriage is discovered by a British filmmaker and thrust into the public eye."
+  },
+  {
+    "id": 78,
+    "title": "A GAMBLING MAN",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781538719671.jpg",
+    "author": "David Baldacci",
+    "description": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town."
+  },
+  {
+    "id": 79,
+    "title": "THE AWAKENING",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250272614.jpg",
+    "author": "Nora Roberts",
+    "description": "The first book in the Dragon Heart Legacy series. Breen Kelly travels through a portal in Ireland to a land of faeries and mermaids."
+  },
+  {
+    "id": 80,
+    "title": "WISH",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781250144058.jpg",
+    "author": "Barbara O'Connor",
+    "description": ""
+  },
+  {
+    "id": 81,
+    "title": "A WOLF CALLED WANDER",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780062895936.jpg",
+    "author": "Rosanne Parry.",
+    "description": ""
+  },
+  {
+    "id": 82,
+    "title": "THE ONE AND ONLY IVAN",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780061992278.jpg",
+    "author": "Katherine Applegate.",
+    "description": ""
+  },
+  {
+    "id": 83,
+    "title": "THE ONE AND ONLY BOB",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780062991317.jpg",
+    "author": "Katherine Applegate.",
+    "description": ""
+  },
+  {
+    "id": 84,
+    "title": "MAP OF FLAMES",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780593325407.jpg",
+    "author": "Lisa McMann",
+    "description": ""
+  },
+  {
+    "id": 85,
+    "title": "GIRL IN PIECES",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781101934715.jpg",
+    "author": "Kathleen Glasgow",
+    "description": ""
+  },
+  {
+    "id": 86,
+    "title": "IF HE HAD BEEN WITH ME",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781402277832.jpg",
+    "author": "Laura Nowlin",
+    "description": ""
+  },
+  {
+    "id": 87,
+    "title": "THEY BOTH DIE AT THE END",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780062457790.jpg",
+    "author": "Adam Silvera",
+    "description": ""
+  },
+  {
+    "id": 88,
+    "title": "SHE'S GONE",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9781728254203.jpg",
+    "author": "David Bell",
+    "description": ""
+  },
+  {
+    "id": 89,
+    "title": "WE WERE LIARS",
+    "image": "https://storage.googleapis.com/du-prd/books/images/9780375984402.jpg",
+    "author": "E. Lockhart",
+    "description": ""
+  }
+]

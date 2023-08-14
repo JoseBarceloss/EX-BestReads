@@ -1,0 +1,4 @@
+**/*.test.tsx
+src/tests/*
+src/main.tsx
+src/data.ts
