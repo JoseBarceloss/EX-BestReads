@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import './App.css';
 import Book from './components/Book';
 import BookList from './components/BookList';
@@ -8,15 +9,22 @@ const bookIndexEnd = 15;
 const placeHolderList = data.slice(bookIndexStart, bookIndexEnd); // esse código deverá ser excluído após a implementação do requisito 2
 
 function App() {
+  const [bookIndex, SetBookIndex] = useState(0);
+
   return (
     <div className="app">
       <div className="book-selector">
-        <Book bookInfo={ data[0] } showDetails />
+        <Book bookInfo={ data[bookIndex] } showDetails />
         <div className="selector-buttons">
           <button>Adicionar à lista de desejos</button>
           <button>Adicionar à lista de leitura</button>
           <button>Adicionar à lista de lidos</button>
-          <button>Próximo livro</button>
+          <button
+            onClick={ () => SetBookIndex((bookIndex + 1) % data.length) }
+          >
+            Próximo livro
+
+          </button>
         </div>
       </div>
 
