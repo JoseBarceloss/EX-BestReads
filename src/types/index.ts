@@ -5,3 +5,5 @@ export type BookInfoType = {
   author: string,
   description: string
 };
+
+export type BookListType = BookInfoType[];
